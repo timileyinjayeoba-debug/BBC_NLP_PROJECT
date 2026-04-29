@@ -15,7 +15,7 @@ In addition to subcategorization, the pipeline performs **Named Entity Recogniti
 ## Dataset
 
 - **Source:** BBC News Dataset
-- **Categories:** Business (439 articles), Entertainment, Politics, Sport, Tech (401 articles)
+- **Categories:** Business, Entertainment, Politics, Sport, Tech
 - **Format:** Raw `.txt` files, one article per file
 - **Structure:** Five category folders, each processed by a dedicated notebook
 
